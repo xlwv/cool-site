@@ -2,7 +2,7 @@ import React from 'react'
 
 function Cards() {
   return (
-    <div data-scroll-section data-scroll  data-scroll-speed="-.1"  className='w-full bg-[#F1F1F1] h-screen flex flex-col md:flex-row mb-[30vh]  px-4 md:px-16 gap-4  '>
+    <div data-scroll-section data-scroll  data-scroll-speed="-.1"  className='w-full bg-[#F1F1F1] md:h-screen flex flex-col h:fit md:flex-row mb-[30vh]  px-4 md:px-16 gap-4  '>
 
       <div className='md:w-1/2  flex items-center justify-center relative w-full  h-[50vh] rounded-xl bg-[#004D43] bg'>
         <img src="https://ochi.design/wp-content/uploads/2022/04/logo001.svg"></img>
