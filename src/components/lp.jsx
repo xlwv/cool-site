@@ -35,7 +35,7 @@ style={
         <div className='border-t-[1px]  border-zinc-400 mt-32 md:flex lg:flex  justify-between items-top  px-6 py-3 '>
           {["For public and private companies", "From the first pitch to IPO", "START THE PROJECT"].map((item, index) =>
 
-            <p key={index} className={`text-md w-fit mb-8 text-md  font-neue font-light tracer-tight leading-none ${index === 2 && "border-[1px] rounded-full px-2 py-1  border-zinc-950"}`}>{item}</p>
+            <p key={index} className={`text-md w-fit mb-8 text-lg  font-neue font-light tracer-tight leading-none ${index === 2 && "border-[1px] rounded-full px-2 py-1  border-zinc-950"}`}>{item}</p>
           )}
         </div>
 
