@@ -9,3 +9,11 @@
   src: url('./NeueMontreal-Regular.ttf') format('ttf');
 
 }
+
+.app
+{
+  
+    scroll-behavior: smooth !important;
+  
+  
+}

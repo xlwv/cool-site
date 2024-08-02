@@ -18,7 +18,7 @@ function App() {
  
 
   return (
-    <div className='w-full min-h-screen bg-[#F1F1F1]'>
+    <div className=' app w-full min-h-screen bg-[#F1F1F1]'>
       <NavBar/>
       <LP/>
       <Marquee/>
